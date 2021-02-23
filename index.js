@@ -41,7 +41,7 @@ var quotes = [{
         "imgAuthor": "https://plybon.msitesprogram.com/wp-content/uploads/sites/143/2019/10/Albert-Einstein_0.jpg"
     },
     {
-        "text": "If you need words of encouragement as an entrepreneur, then you should'nt be an enterprenuer",
+        "text": "If you need words of encouragement as an entrepreneur, then you should'nt be an entrepreneur",
         "author": "Elon Musk",
         "imgAuthor": "https://static.theceomagazine.net/wp-content/uploads/2018/10/15093202/elon-musk.jpg"
     },
